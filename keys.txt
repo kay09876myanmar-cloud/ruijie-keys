@@ -1,0 +1,1 @@
+# Ruijie Scanner Keys\n# Format: HWID:KEY
