@@ -1,1 +1,1 @@
-# Ruijie Scanner Keys\n# Format: HWID:KEY
+# Ruijie Scanner Keys\n# Format: 64CB950798BACE2A : NjRDQjk1MDc5OEJBQ0UyQXwxNzg2NDkxMDAwfDcwMTMzZmRlODE=
